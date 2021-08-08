@@ -39,3 +39,10 @@
 <h1 class="dodger-blue-text">I am dodger blue!</h1>
 
 <h1 class="orange-text">I am orange!</h1>
+
+
+<style>
+  body {
+    background-color: rgb( 0, 0, 0);
+  }
+</style>
